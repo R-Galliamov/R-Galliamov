@@ -6,7 +6,7 @@ Building Android apps end-to-end: architecture, UI, data, background services, a
 
 ---
 
-## What I Do
+## 💻 What I Do
 - Design and build Android apps from scratch  
 - Create XML UIs and custom views  
 - Work safely with concurrency and background services  
@@ -18,7 +18,7 @@ Building Android apps end-to-end: architecture, UI, data, background services, a
 
 ---
 
-## Selected Projects
+## 🚀 Selected Projects
 
 ### SprintSync — Run tracker
 Run tracking with GPS, foreground service, Google Maps route, stats, and history.  
@@ -29,7 +29,7 @@ Run tracking with GPS, foreground service, Google Maps route, stats, and history
 
 ### Meditation App
 Alarms with scheduled playback, streaming audio player, user profile.  
-**Stack:** MVVM, Retrofit, OkHttp3, Hilt, Navigation, Glide
+**Stack:** MVVM, Retrofit, OkHttp3, Hilt, Navigation, Glide  
 **Repo:** [github.com/R-Galliamov/MeditationApp](https://github.com/R-Galliamov/MeditationApp)
 
 ---
@@ -41,5 +41,5 @@ Social feed with real-time updates, CRUD on posts/media, maps, auth, audio/video
 
 ---
 
-## Location
+## 🌍 Location
 Netherlands · Open to Android roles in EU/remote
