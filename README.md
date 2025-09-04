@@ -1,4 +1,4 @@
-# Roman Gallyamov · Android Developer
+# Roman Galliamov · Android Developer
 
 **Stack:** Kotlin · Java · MVVM · Coroutines/Flow · Hilt · Room · Retrofit/OkHttp · Navigation · Detekt · Ktlint  
 
