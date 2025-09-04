@@ -34,7 +34,7 @@ Alarms with scheduled playback, streaming audio player, user profile.
 
 ---
 
-### NeWork — Netology diploma
+### NeWork
 Social feed with real-time updates, CRUD on posts/media, maps, auth, audio/video playback.  
 **Stack:** MVVM, Room, Retrofit, OkHttp3, Hilt, Navigation, Glide, Yandex MapKit, ExoPlayer  
 **Repo:** [github.com/R-Galliamov/NeWork_Netology-Diploma-project](https://github.com/R-Galliamov/NeWork_Netology-Diploma-project)
